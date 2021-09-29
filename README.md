@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShihadUmar
+- 👋 Hi, I’m <a href="https://shihadumar.github.io">ShihadUmar</a>
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning JavaScript
 - 💞️ I'm looking to collaborate on Web Development
